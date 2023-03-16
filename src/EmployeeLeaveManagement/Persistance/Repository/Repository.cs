@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E.L.M.Domain
+namespace Persistance.Repository
 {
-	public class Approve
+	public class Repository
 	{
-		public bool? Approved { get; set; }
-		public bool Cancelled { get; set; }
 	}
 }
